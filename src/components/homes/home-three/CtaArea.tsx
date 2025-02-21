@@ -15,7 +15,7 @@ const CtaArea = () => {
 							<p>
 								We are a non-profit organization since 1999 that serves youth at risk in our community and beyond. Learn more about our mission and how you can help.
 							</p>
-							<Link className="cr-btn mt-30" href="#">
+							<Link className="cr-btn mt-30" href="/donate">
 								Donate Now
 							</Link>
 						</div>
