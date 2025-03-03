@@ -1076,7 +1076,7 @@ ul li {
 }
 
 /*-----------------------------------------
-    ## Overlay 
+    ## Overlay
 ------------------------------------------*/
 .overlay {
   z-index: 1;
@@ -1096,7 +1096,7 @@ ul li {
 }
 
 /*-----------------------------------------
-    ## pagination 
+    ## pagination
 ------------------------------------------*/
 .pagination {
   display: -webkit-box;
@@ -1453,7 +1453,7 @@ ul li {
 }
 
 /*----------------------------------------------
-    # Nav bar 
+    # Nav bar
 ----------------------------------------------*/
 .navbar-top .navtop-inner,
 .navbar-top .navtop-inner ul,
@@ -2053,12 +2053,12 @@ ul li {
 }
 
 .navbar--three .toggle-btn span {
-  background-color: white;
+  background-color: var(--primary-color);
 }
 
 .navbar--three .toggle-btn span:after,
 .navbar--three .toggle-btn span:before {
-  background-color: white;
+  background-color: var(--primary-color);
 }
 
 .navbar--three.sticky-active {

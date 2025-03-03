@@ -1,5 +1,5 @@
 /*----------------------------------------------
-    # Nav bar 
+    # Nav bar
 ----------------------------------------------*/
 .navbar-top {
     .navtop-inner,
@@ -529,10 +529,10 @@
         }
     }
     .toggle-btn span {
-        background-color: white;
+        background-color: var(--primary-color);
         &:after,
         &:before {
-            background-color: white;
+            background-color: var(--primary-color);
         }
     }
     &.sticky-active {
