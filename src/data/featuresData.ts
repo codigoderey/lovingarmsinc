@@ -14,6 +14,7 @@ interface DataType {
    btn_bg?: string;
    bg_img?: StaticImageData;
    item_bg?:string;
+   link?:string
 }
 
 const features_data: DataType[] = [
@@ -97,15 +98,17 @@ const features_data: DataType[] = [
       bg_img:features3Bg_1,
       icon_name:"flaticon-solidarity",
       title:"Get Inspire",
-      desc:"Learn how to help others in need. It is more blessed to give than to receive.",
+      desc:"Visit our about section and learn about our mission, vission, values and more.",
+      link:"/about",
    },
    {
       id:2,
       page:"home_3",
       bg_img:features3Bg_2,
       icon_name:"flaticon-heart",
-      title:"Donate for charity",
-      desc:"If you are looking to be of a help, learn about how can you do it with us.",
+      title:"Donate today",
+      desc:"If you are looking to be of a help, you have come to the right place.",
+      link:"/donate",
    },
    {
       id:3,
@@ -113,7 +116,8 @@ const features_data: DataType[] = [
       bg_img:features3Bg_3,
       icon_name:"flaticon-help",
       title:"Become a volunteer",
-      desc:"There are many ways to volunteer with us. Join us and make a difference.",
+      desc:"Contact us to learn more about volunteering with us.",
+      link:"/contact",
    },
 ]
 

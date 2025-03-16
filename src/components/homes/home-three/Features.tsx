@@ -21,7 +21,7 @@ const Features = () => {
                               <i className={item.icon_name}></i>
                            </div>
                            <div className="feature-item__content">
-                              <h4><Link href="/cause-details">{item.title}</Link></h4>
+                              <h4>{item.link ? <Link href={item.link}>{item.title}</Link> : item.title}</h4>
                               <p>{item.desc}</p>
                            </div>
                         </div>

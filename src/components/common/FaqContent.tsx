@@ -8,14 +8,14 @@ const FaqContent = () => {
 			<>
 				<Image src={faqThumb} alt="Man" />
 				<div className="experiences-years">
-					<span className="experiences-years__number">25</span>
-					<span className="experiences-years__text">Years Experiences</span>
+					<span className="experiences-years__number">20+</span>
+					<span className="experiences-years__text">Years of Experience</span>
 				</div>
 				<div className="counter-item counter-text-wrap">
 					<div className="counter-item__content">
 						Over
-						<span className="count-text" data-speed="3000" data-stop="10000">
-							<Count number={10000} />
+						<span className="count-text" data-speed="3000" data-stop="12000">
+							<Count number={12000} />
 						</span>
 						<h5 className="counter-title">Youth & Families</h5>
             <span>served</span>
@@ -27,7 +27,7 @@ const FaqContent = () => {
 					</div>
 					<div className="project-complete__content">
 						<h5>Your help is welcome</h5>
-						<span>Donet for charity</span>
+						<span>Donate for charity</span>
 					</div>
 				</div>
 			</>

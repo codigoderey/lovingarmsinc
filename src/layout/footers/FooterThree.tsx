@@ -76,10 +76,10 @@ const FooterThree = () => {
          <div className="footer-bottom mt-30">
             <div className="container">
                <div className="footer-bottom__inner">
-                  <Link href="/donate" className="donate-by">
+                  {/* <Link href="/donate" className="donate-by">
                      <span>Donate by :</span>
                      <Image src={donate} alt="Donate By" />
-                  </Link>
+                  </Link> */}
                   <div className="copyright">
                      <p>{copyright_text}</p>
                   </div>

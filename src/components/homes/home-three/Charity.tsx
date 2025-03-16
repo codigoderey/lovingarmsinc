@@ -24,8 +24,7 @@ const Charity = () => {
 							<div className="col-lg-12">
 								<div className="section-title text-center mb-50">
 									<h2>
-										We are a non-profit organization and certified Family &
-										Youth Service Bureau
+										Listen to this podcast to learn more about us
 									</h2>
 								</div>
 							</div>
@@ -49,7 +48,7 @@ const Charity = () => {
 				<VideoPopup
 					isVideoOpen={isVideoOpen}
 					setIsVideoOpen={setIsVideoOpen}
-					videoId={"YJjz2Glk-Ng"}
+					videoId={"en8qdStpd6g"}
 				/>
 				{/* video modal end */}
 			</>

@@ -13,10 +13,15 @@ const CtaArea = () => {
 								Welcome to Make a <span>Positive Impact</span>
 							</h2>
 							<p>
-								We are a non-profit organization since 1999 that serves youth at risk in our community and beyond. Learn more about our mission and how you can help.
+								Since 1999, we serve youth at risk in our community and beyond.
+								Your donation can make a difference.
 							</p>
-							<Link className="cr-btn mt-30" href="/donate">
-								Donate Now
+							<Link
+                target="_blank"
+                rel="noopener noreferrer"
+								className="cr-btn mt-30"
+								href="/https://www.spotfund.com/story/1500b40e-3470-4057-acee-393f2ab3ab7b?source=s&share_location=c&SFID=dngtg16sc&referral_id=d1cc59dd-1183-49f2-90eb-a7cec9289c99">
+								Donate Today
 							</Link>
 						</div>
 					</div>

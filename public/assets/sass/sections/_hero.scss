@@ -16,24 +16,24 @@
         margin-bottom: 60px;
         text-transform: capitalize;
         @include res-bl(xxl) {
-            font-size: 75px;
+            font-size: 50px;
         }
         @include res-bl(xl) {
-            font-size: 66px;
+            font-size: 40px;
         }
         @include res-bl(lg) {
-            font-size: 55px;
+            font-size: 30px;
             margin-bottom: 35px;
         }
         @include res-bl(md) {
-            font-size: 45px;
+            font-size: 28px;
             line-height: 1.25;
         }
         @include res-bl(sm) {
-            font-size: 40px;
+            font-size: 26px;
         }
         @include res-bl(xs) {
-            font-size: 35px;
+            font-size: 24px;
         }
         span {
             z-index: 1;
@@ -54,7 +54,7 @@
     p {
         @include container(775px);
         @include res-ab(sm) {
-            font-size: 20px;
+            font-size: 18px;
             line-height: 30px;
         }
     }
