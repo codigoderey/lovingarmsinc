@@ -23,12 +23,10 @@ const HeaderTop = ({ style }: any) => {
 								</>
 							) : (
 								<>
+									<li>Welcome to Loving Arms! </li>
 									<li>
-									  Welcome to Loving Arms!{" "}
-									</li>
-									<li>
-										<i className="flaticon-pin"></i>1227 Etting St, Baltimore,
-										MD 21217
+										<i className="flaticon-pin"></i>2901 Druid Park Drive, Suite
+										103 Baltimore, Maryland 21215
 									</li>
 								</>
 							)}
