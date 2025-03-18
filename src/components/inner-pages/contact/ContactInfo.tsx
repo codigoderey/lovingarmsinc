@@ -14,22 +14,22 @@ interface DataType {
 }[]
 
 const contact_data: DataType[] = [
-	{
-		id: 1,
-		item_bg: "contact-info-item--green",
-		icon: "flaticon-phone-call",
-		title: "Phone Number",
-		contact_info: [
-			{
-				info_link: "callto:+(321)984754",
-				info_title: "+ (443) 415 1174"
-			},
-			{
-				info_link: "callto:+1-212-9876543",
-				info_title: "+ (443) 473 5323"
-			}
-		]
-	},
+	// {
+	// 	id: 1,
+	// 	item_bg: "contact-info-item--green",
+	// 	icon: "flaticon-phone-call",
+	// 	title: "Phone Number",
+	// 	contact_info: [
+	// 		{
+	// 			info_link: "callto:+(321)984754",
+	// 			info_title: "+ (443) 415 1174"
+	// 		},
+	// 		{
+	// 			info_link: "callto:+1-212-9876543",
+	// 			info_title: "+ (443) 473 5323"
+	// 		}
+	// 	]
+	// },
 	{
 		id: 2,
 		item_bg: "contact-info-item--yellow",
@@ -37,12 +37,8 @@ const contact_data: DataType[] = [
 		title: "Email Address",
 		contact_info: [
 			{
-				info_link: "mailto:info@lovingarmsinc.org",
-				info_title: "info@lovingarmsinc.org"
-			},
-			{
-				info_link: "mailto:cwilliams@lovingarmsinc.com",
-				info_title: "cwilliams@lovingarmsinc.com"
+				info_link: "mailto:lovingarms3@gmail.com",
+				info_title: "lovingarms3@gmail.com"
 			}
 		]
 	},
@@ -52,9 +48,9 @@ const contact_data: DataType[] = [
 		title: "Office Address",
 		contact_info_text: (
 			<>
-				1227 Etting St
+				2901 Druid Park Drive, Suite 103
 				<br />
-				Baltimore, MD 21217
+				Baltimore, Maryland 21215
 			</>
 		)
 	}

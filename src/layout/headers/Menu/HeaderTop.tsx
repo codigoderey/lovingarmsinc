@@ -33,7 +33,7 @@ const HeaderTop = ({ style }: any) => {
 								</>
 							)}
 						</ul>
-						<ul className="topbar-right">
+						{/* <ul className="topbar-right">
 							<li className="social-area">
 								<span>Follow Us - </span>
 								<Link href="#">
@@ -46,7 +46,7 @@ const HeaderTop = ({ style }: any) => {
 									<i className="fab fa-linkedin-in"></i>
 								</Link>
 							</li>
-						</ul>
+						</ul> */}
 					</div>
 				</div>
 			</div>

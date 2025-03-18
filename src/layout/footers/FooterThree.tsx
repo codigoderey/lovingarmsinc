@@ -2,11 +2,8 @@
 import Image, { StaticImageData } from "next/image"
 import Link from "next/link"
 import footer_data from "@/data/footerData";
-import Count from "@/components/common/Count";
 
 import footerLogo from "@/assets/img/logos/logo-white.png"
-import donate from "@/assets/img/footer/donate-by.png";
-import footerMap from "@/assets/img/footer/map.png"
 
 import latestNews_1 from "@/assets/img/footer/latest-news1.jpg";
 import latestNews_2 from "@/assets/img/footer/latest-news2.jpg";
