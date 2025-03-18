@@ -23,13 +23,19 @@ const menu_data: MenuItem[] = [
 		link: "/about"
 	},
 	{
-		id: 2,
+		id: 3,
 		has_dropdown: true,
 		title: "Services",
 		link: "/services"
 	},
+  {
+    id: 4,
+    has_dropdown: true,
+    title: "Board",
+    link: "/board"
+  },
 	{
-		id: 4,
+		id: 5,
 		has_dropdown: true,
 		title: "Contact",
 		link: "/contact"
