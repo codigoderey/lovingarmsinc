@@ -1,5 +1,6 @@
 import HeaderOne from "@/layout/headers/HeaderOne";
 import Breadcrumb from "@/components/common/Breadcrumb";
+import FooterThree from "@/layout/footers/FooterThree";
 export default function Board() {
 	return (
 		<>
@@ -152,6 +153,8 @@ export default function Board() {
 					</div>
 				</div>
 			</div>
+
+      <FooterThree />
 		</>
 	);
 }
