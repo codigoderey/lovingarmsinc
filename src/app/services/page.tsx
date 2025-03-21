@@ -1,16 +1,8 @@
 import Breadcrumb from "@/components/common/Breadcrumb";
-import FooterOne from "@/layout/footers/FooterOne";
 import HeaderOne from "@/layout/headers/HeaderOne";
-import Brand from "@/components/common/Brand";
-import About from "@/components/homes/home-three/About";
 import Features from "@/components/homes/home-one/Features";
-import Volunteer from "@/components/homes/home-one/Volunteer";
-import Testimonial from "@/components/homes/home-two/Testimonial";
-import CtaArea from "@/components/homes/home-three/CtaArea";
 import FAQ from "@/components/homes/home-three/FAQ";
 import FooterThree from "@/layout/footers/FooterThree";
-import Image from "next/image";
-import aboutAuthor from "@/assets/img/about/author.jpg";
 
 const ServicesPage = () => {
 	return (
