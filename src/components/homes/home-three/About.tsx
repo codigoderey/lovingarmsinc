@@ -23,7 +23,7 @@ const about_content: ContentType = {
 			Loving Arms, Inc. is dedicated to providing immediate, safe, and
 			supportive housing for youth ages 12-18 who are runaway, homeless, or at
 			risk of becoming homeless, as well as minors who are victims of domestic
-			sex and labor trafficking and more. We serve children and youth in need. <Link style={{ color: "#f84d42" }} href="/about">Learn more about us</Link>.
+			sex and labor trafficking and more. We serve children and youth in need. <Link style={{ color: "#6F7549" }} href="/about">Learn more about us</Link>.
 		</>
 	),
 	list: [

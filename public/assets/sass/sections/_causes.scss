@@ -92,7 +92,7 @@
                     }
                 }
             }
-            
+
         }
         .cause-btn {
             text-align: center;
@@ -225,7 +225,7 @@
 
 .circle-progress {
       z-index: 1;
-      width: 105px !important; 
+      width: 105px !important;
       height: 105px;
       line-height: 1;
       background: white;
@@ -236,7 +236,7 @@
       width: max-content;
       margin: -50px auto 20px;
       border: 11px solid #FAFAFA;
-   
+
       &:after {
         content: attr(data-pct) "%";
         position: absolute;
@@ -255,21 +255,21 @@
         align-items: center;
         justify-content: center;
       }
-   
+
       .circle-progress-content {
         transform: rotate(-90deg);
       }
-   
+
       .circle-progress-content .bar,
       .circle-progress-content .bg {
         stroke-linecap: round;
       }
-   
+
       .circle-progress-content .bar {
-        stroke: #F84D42 ;
+        stroke: #6F7549 ;
         transition: stroke-dashoffset 0.1s ease-out;
       }
-   
+
       .circle-progress-content .bg {
         stroke: #edf0f5;
       }
@@ -386,7 +386,7 @@
     display: none;
 }
 /* Causes page slider */
-.course-page-slider.slick-initialized, 
+.course-page-slider.slick-initialized,
 .blog-page-slider.slick-initialized {
     @include gapLR(margin, -15px);
      .slick-slide{
