@@ -45,9 +45,9 @@ export const metadata = {
 		images: "https://lovingarms.com/assets/img/logos/logo-white.png" // Corrected image URL
 	},
 	icons: {
-		icon: "/favicon.png",
-		shortcut: "/favicon.png",
-		apple: "/favicon.png"
+		icon: "https://lovingarms.com/assets/img/logos/logo-white.png",
+		shortcut: "https://lovingarms.com/assets/img/logos/logo-white.png",
+		apple: "https://lovingarms.com/assets/img/logos/logo-white.png"
 	}
 };
 
