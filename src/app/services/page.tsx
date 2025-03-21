@@ -63,7 +63,7 @@ const ServicesPage = () => {
 										</li>
 										<li>
 											<strong>Referrals:</strong> Please{" "}
-											<a style={{ color: "#6F7549" }} href="/contact"> contact us</a> for any additional
+											<a style={{ color: "#A6AB6E" }} href="/contact"> contact us</a> for any additional
 											resources or referrals you may need.
 										</li>
 									</ul>
