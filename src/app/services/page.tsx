@@ -29,7 +29,7 @@ const ServicesPage = () => {
 										</span>
 										<h2>So many ways we can help</h2>
 									</div>
-									<h3>Values Statement</h3>
+									<h3>Here are some:</h3>
 									<ul style={{ fontSize: "18px" }}>
 										<li>
 											<strong>Emergency Shelter:</strong> Safe housing for
