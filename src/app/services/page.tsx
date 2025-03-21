@@ -58,13 +58,20 @@ const ServicesPage = () => {
 									<ul style={{ fontSize: "18px" }}>
 										<li>
 											<strong>Hotline & Emergency Contact Information:</strong>{" "}
-											If you are in immediate need of help, call us at [number]
-											or text [number]. Our team is ready to support you.
+											If you are in immediate need of help,{" "}
+											<a style={{ color: "#A6AB6E" }} href="/contact">
+												{" "}
+												contact us
+											</a>
+											. Our team is ready to support you.
 										</li>
 										<li>
 											<strong>Referrals:</strong> Please{" "}
-											<a style={{ color: "#A6AB6E" }} href="/contact"> contact us</a> for any additional
-											resources or referrals you may need.
+											<a style={{ color: "#A6AB6E" }} href="/contact">
+												{" "}
+												contact us
+											</a>{" "}
+											for any additional resources or referrals you may need.
 										</li>
 									</ul>
 								</div>
