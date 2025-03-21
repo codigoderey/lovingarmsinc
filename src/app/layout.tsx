@@ -29,7 +29,7 @@ export const metadata = {
 		siteName: "Loving Arms",
 		images: [
 			{
-				url: "https://lovingarms.com/assets/img/logos/logo-white.png", // Or a dedicated social sharing image.
+				url: "https://www.lovingarmsinc.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.d7acc6f3.png&w=128&q=75", // Or a dedicated social sharing image.
 				alt: "Loving Arms Logo",
 				width: 1200,
 				height: 630
@@ -42,12 +42,12 @@ export const metadata = {
 		card: "summary_large_image",
 		title: "Loving Arms",
 		description: "Support with Love and Care",
-		images: "https://lovingarms.com/assets/img/logos/logo-white.png" // Corrected image URL
+		images: "https://www.lovingarmsinc.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.d7acc6f3.png&w=128&q=75" // Corrected image URL
 	},
 	icons: {
-		icon: "https://lovingarms.com/assets/img/logos/logo-white.png",
-		shortcut: "https://lovingarms.com/assets/img/logos/logo-white.png",
-		apple: "https://lovingarms.com/assets/img/logos/logo-white.png"
+		icon: "https://www.lovingarmsinc.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.d7acc6f3.png&w=128&q=75",
+		shortcut: "https://www.lovingarmsinc.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.d7acc6f3.png&w=128&q=75",
+		apple: "https://www.lovingarmsinc.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.d7acc6f3.png&w=128&q=75"
 	}
 };
 
