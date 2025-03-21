@@ -19,6 +19,38 @@ const script = Pacifico({
   variable: '--script-font',
 });
 
+export const metadata = {
+	title: "Loving Arms",
+	description: "Support with Love and Care",
+	openGraph: {
+		title: "Loving Arms",
+		description: "Support with Love and Care",
+		url: "https://lovingarms.com",
+		siteName: "Loving Arms",
+		images: [
+			{
+				url: "https://lovingarms.com/assets/img/logos/logo-white.png", // Or a dedicated social sharing image.
+				alt: "Loving Arms Logo",
+				width: 1200,
+				height: 630
+			}
+		],
+		locale: "en_US",
+		type: "website"
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Loving Arms",
+		description: "Support with Love and Care",
+		images: "https://lovingarms.com/assets/img/logos/logo-white.png" // Corrected image URL
+	},
+	icons: {
+		icon: "/favicon.png",
+		shortcut: "/favicon.png",
+		apple: "/favicon.png"
+	}
+};
+
 export default function RootLayout({
   children,
 }: {
