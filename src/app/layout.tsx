@@ -1,5 +1,6 @@
 import "../styles/index.scss";
 import { DM_Sans, Nunito_Sans, Pacifico } from 'next/font/google'
+import { redirect } from "next/navigation";
 
 const body = DM_Sans({
   weight: ['400', '500', '600', '700', '800', '900'],
@@ -56,6 +57,24 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+
+  return (
+    <html lang="en">
+			<head>
+				<meta
+					name="description"
+					content="Loving Arms - Support with Love and Care"
+				/>
+				<link rel="icon" href="/favicon.png" sizes="any" />
+			</head>
+			<body
+				suppressHydrationWarning={true}
+				className={` ${body.variable} ${heading.variable} ${script.variable} `}>
+          <h1>Unavailable</h1>
+			</body>
+		</html>
+  )
+
   return (
 		<html lang="en">
 			<head>
