@@ -58,22 +58,22 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
 
-  return (
-    <html lang="en">
-			<head>
-				<meta
-					name="description"
-					content="Loving Arms - Support with Love and Care"
-				/>
-				<link rel="icon" href="/favicon.png" sizes="any" />
-			</head>
-			<body
-				suppressHydrationWarning={true}
-				className={` ${body.variable} ${heading.variable} ${script.variable} `}>
-          <h1>Unavailable</h1>
-			</body>
-		</html>
-  )
+  // return (
+  //   <html lang="en">
+	// 		<head>
+	// 			<meta
+	// 				name="description"
+	// 				content="Loving Arms - Support with Love and Care"
+	// 			/>
+	// 			<link rel="icon" href="/favicon.png" sizes="any" />
+	// 		</head>
+	// 		<body
+	// 			suppressHydrationWarning={true}
+	// 			className={` ${body.variable} ${heading.variable} ${script.variable} `}>
+  //         <h1>Unavailable</h1>
+	// 		</body>
+	// 	</html>
+  // )
 
   return (
 		<html lang="en">
