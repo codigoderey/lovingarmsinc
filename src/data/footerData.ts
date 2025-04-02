@@ -58,7 +58,7 @@ const footer_data: DataType[] = [
 			{ link: "/services", link_title: "Services" },
 			{ link: "/board", link_title: "Board" },
 			{ link: "/contact", link_title: "Contact Us" },
-			{ link: "/http://spot.fund/dngtg16sc", link_title: "Donate" }
+			{ link: "http://spot.fund/dngtg16sc", link_title: "Donate" }
 		]
 	}
 ];
