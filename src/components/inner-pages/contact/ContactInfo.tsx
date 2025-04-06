@@ -14,31 +14,27 @@ interface DataType {
 }[]
 
 const contact_data: DataType[] = [
-	// {
-	// 	id: 1,
-	// 	item_bg: "contact-info-item--green",
-	// 	icon: "flaticon-phone-call",
-	// 	title: "Phone Number",
-	// 	contact_info: [
-	// 		{
-	// 			info_link: "callto:+(321)984754",
-	// 			info_title: "+ (443) 415 1174"
-	// 		},
-	// 		{
-	// 			info_link: "callto:+1-212-9876543",
-	// 			info_title: "+ (443) 473 5323"
-	// 		}
-	// 	]
-	// },
+	{
+		id: 1,
+		item_bg: "contact-info-item--green",
+		icon: "flaticon-phone-call",
+		title: "Phone Number",
+		contact_info: [
+			{
+				info_link: "callto:(443) 415 1174",
+				info_title: "Call Now"
+			}
+		]
+	},
 	{
 		id: 2,
 		item_bg: "contact-info-item--yellow",
 		icon: "flaticon-phone-call",
-		title: "Email Address",
+		title: "Email Now",
 		contact_info: [
 			{
 				info_link: "mailto:lovingarms3@gmail.com",
-				info_title: "lovingarms3@gmail.com"
+				info_title: "Email Now"
 			}
 		]
 	},
