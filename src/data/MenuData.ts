@@ -37,7 +37,7 @@ const menu_data: MenuItem[] = [
 	{
 		id: 5,
 		has_dropdown: true,
-		title: "Contact",
+		title: "Contact Us",
 		link: "/contact"
 	}
 	// {
