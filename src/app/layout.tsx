@@ -82,7 +82,7 @@ export default function RootLayout({
 					name="description"
 					content="Loving Arms - Support with Love and Care"
 				/>
-				<link rel="icon" href="/favicon.png" sizes="any" />
+				<link rel="icon" href="@/assets/img/logos/logo-white.png" sizes="any" />
 			</head>
 			<body
 				suppressHydrationWarning={true}
