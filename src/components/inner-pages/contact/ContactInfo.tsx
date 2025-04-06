@@ -18,26 +18,30 @@ const contact_data: DataType[] = [
 		id: 1,
 		item_bg: "contact-info-item--green",
 		icon: "flaticon-phone-call",
-		title: "Phone Number",
+		title: "Contact Us",
 		contact_info: [
 			{
 				info_link: "callto:(443) 415 1174",
 				info_title: "Call Now"
-			}
-		]
-	},
-	{
-		id: 2,
-		item_bg: "contact-info-item--yellow",
-		icon: "flaticon-phone-call",
-		title: "Email Now",
-		contact_info: [
+			},
 			{
-				info_link: "mailto:lovingarms3@gmail.com",
+				info_link: "mailto:lovingarms3@gmail.com?subject=Contact%20From%20Website",
 				info_title: "Email Now"
 			}
 		]
 	},
+	// {
+	// 	id: 2,
+	// 	item_bg: "contact-info-item--yellow",
+	// 	icon: "flaticon-bubble-chat",
+	// 	title: "Email Now",
+	// 	contact_info: [
+	// 		{
+	// 			info_link: "mailto:lovingarms3@gmail.com",
+	// 			info_title: "Email Now"
+	// 		}
+	// 	]
+	// },
 	{
 		id: 3,
 		icon: "flaticon-pin",
