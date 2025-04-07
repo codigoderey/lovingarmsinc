@@ -22,27 +22,29 @@ export default function Board() {
 					</div>
 					<div className="row d-flex gap-30 align-items-stretch">
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Sharana Sloss - Chair</h5>
 									<p className="card-text">
 										Clinical Social Worker/SC State Director
 									</p>
+									<p className="card-text"><a href="tel:843-480-5150">Tel. (843)480-5150</a></p>
 								</div>
 							</div>
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Darroll Cribb – Vice Chair</h5>
 									<p className="card-text">Compassionate Care Services, LLC</p>
+									<p className="card-text"><a href="tel:410-473-5323">Tel. (410)473-5323</a></p>
 								</div>
 							</div>
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Denita Bennett, Board Member</h5>
 									<p className="card-text">Elder/Retired Finance Adm.</p>
@@ -51,7 +53,7 @@ export default function Board() {
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Charles Carter, Board Member</h5>
 									<p className="card-text">Business Owner/Social Worker</p>
@@ -60,7 +62,7 @@ export default function Board() {
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Cleveland Smith – Board Member</h5>
 									<p className="card-text">Realtor/Business Owner</p>
@@ -69,7 +71,7 @@ export default function Board() {
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">
 										Jenice Gonzalez-Green – Secretary
@@ -80,7 +82,7 @@ export default function Board() {
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Sylvester Shorts, Board Member</h5>
 									<p className="card-text">Community Organizer/Homeless Ad.</p>
@@ -89,7 +91,7 @@ export default function Board() {
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Wendy Dessausure - Treasurer</h5>
 									<p className="card-text">Retired Human Resource Worker</p>
@@ -98,7 +100,7 @@ export default function Board() {
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Precise Coaxum – Board Member</h5>
 									<p className="card-text">Community Leader/PHY</p>
@@ -107,7 +109,7 @@ export default function Board() {
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Curtis McNeil, Board Member</h5>
 									<p className="card-text">Prog. Director – Family Matters</p>
@@ -116,7 +118,7 @@ export default function Board() {
 						</div>
 
 						<div className="col-md-4 mb-4">
-							<div style={{height: "100%"}} className="card">
+							<div style={{ height: "100%" }} className="card">
 								<div className="card-body">
 									<h5 className="card-title">Bertha Fordham – Board Member</h5>
 									<p className="card-text">Entrepreneur/Business Owner</p>

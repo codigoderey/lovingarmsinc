@@ -6,7 +6,7 @@ import featureImg from "@/assets/img/features/feature-three.jpg"
 
 const Features = () => {
    return (
-      <div className="features-area-three pb-55">
+      <div className="features-area-three pb-55 pt-120 rpt-120 rel z-1">
          <div className="container">
             <div className="row gap-80 align-items-center">
                <div className="col-xl-5 col-lg-10">

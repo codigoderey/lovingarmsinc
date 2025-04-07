@@ -10,15 +10,15 @@ const CtaArea = () => {
 					<div className="col-xl-8 col-lg-10">
 						<div className="section-title text-center text-white">
 							<h2>
-								Welcome to Make a <span>Positive Impact</span>
+								Donate to Make a <span>Positive Impact</span>
 							</h2>
 							<p>
-								Since 1999, we serve youth at risk in our community and beyond.
-								Your donation can make a difference.
+								Serving youth and families since 1999, in this community and
+								beyond. Your Donation Matters and Will Make A Difference.
 							</p>
 							<Link
-                target="_blank"
-                rel="noopener noreferrer"
+								target="_blank"
+								rel="noopener noreferrer"
 								className="cr-btn mt-30"
 								href="/https://www.spotfund.com/story/1500b40e-3470-4057-acee-393f2ab3ab7b?source=s&share_location=c&SFID=dngtg16sc&referral_id=d1cc59dd-1183-49f2-90eb-a7cec9289c99">
 								Donate Today

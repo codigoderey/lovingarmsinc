@@ -45,7 +45,7 @@ const contact_data: DataType[] = [
 	{
 		id: 3,
 		icon: "flaticon-pin",
-		title: "Office Address",
+		title: "Administrative Office",
 		contact_info_text: (
 			<>
 				2901 Druid Park Drive, Suite 103
