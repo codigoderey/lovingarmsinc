@@ -60,7 +60,7 @@ const About = () => {
 								<p>{desc}</p>
 								<ul className="list-style-one pt-15">
 									{list.map((list, index) => (
-										<li key={index}>{list}</li>
+										<li style={{fontSize: "18px"}} key={index}>{list}</li>
 									))}
 								</ul>
 								<hr className="mt-30 mb-5" />
