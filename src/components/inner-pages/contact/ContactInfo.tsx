@@ -31,6 +31,7 @@ const contact_data: DataType[] = [
 			}
 		]
 	},
+
 	// {
 	// 	id: 2,
 	// 	item_bg: "contact-info-item--yellow",
