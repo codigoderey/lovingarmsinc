@@ -38,7 +38,7 @@ export default function Board() {
 								<div className="card-body">
 									<h5 className="card-title">Darroll Cribb – Vice Chair</h5>
 									<p className="card-text">Compassionate Care Services, LLC</p>
-									<p className="card-text"><a href="tel:410-473-5323">Tel. (410)473-5323</a></p>
+									<p className="card-text"><a href="tel:410-473-5323">Tel. (443)473-5323</a></p>
 								</div>
 							</div>
 						</div>
