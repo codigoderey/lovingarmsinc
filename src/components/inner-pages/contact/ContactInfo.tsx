@@ -21,12 +21,17 @@ const contact_data: DataType[] = [
 		title: "Contact Us",
 		contact_info: [
 			{
-				info_link: "callto:(443) 415 1174",
-				info_title: "Call Now"
+				info_link: "tel:(443) 415 1174",
+				info_title: "Call Now (443) 415 1174"
 			},
 			{
-				info_link: "mailto:lovingarms3@gmail.com?subject=Contact%20From%20Website",
-				info_title: "Email Now"
+				info_link: "tel:(443) 473 5323",
+				info_title: "Call Now (443) 473 5323"
+			},
+			{
+				info_link:
+					"mailto:lovingarms3@gmail.com?subject=Contact%20From%20Website",
+				info_title: "Email Now lovingarms3@gmail.com"
 			}
 		]
 	},
