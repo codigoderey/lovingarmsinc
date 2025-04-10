@@ -89,8 +89,7 @@ export default function GrandOpening() {
 				<p>Friday, April 11, 2025 11 AM - 4 PM </p>
 				<p>3313 Oakfield Avenue Gwynn Qak, MD. 21207</p>
 				<Link
-					href="https://www.lovingarmsinc.org/assets/docs/00-event.pdf"
-					download
+					href="/assets/docs/00-event.pdf"
 					className="cr-btn btn--yellow btn--green">
 					Learn More
 				</Link>
