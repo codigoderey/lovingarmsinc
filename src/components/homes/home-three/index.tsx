@@ -10,9 +10,7 @@ import FAQ from "./FAQ";
 import Testimonial from "./Testimonial";
 import Features from "./Features";
 import FooterThree from "@/layout/footers/FooterThree";
-import VideoPopup from "@/modals/VideoPopup";
-import testimonialBg from "@/assets/img/testimonial.jpg";
-import Image from "next/image";
+import GrandOpening from "@/components/events/single/GrandOpening";
 
 const HomeThree = () => {
   const [isVideoOpen, setIsVideoOpen] = useState(false);
@@ -21,6 +19,7 @@ const HomeThree = () => {
 			<HeaderOne style_1={false} style_2={true} />
 			<main>
 				<HeroArea />
+        <GrandOpening />
 				<Charity/>
 				<About />
 				<CtaArea />
