@@ -90,7 +90,7 @@ export default function GrandOpening() {
 				<p>3313 Oakfield Avenue Gwynn Qak, MD. 21207</p>
 				<Link
 					href="https://www.lovingarmsinc.org/assets/docs/00-event.pdf"
-					download="event.pdf"
+					download
 					className="cr-btn btn--yellow btn--green">
 					Learn More
 				</Link>
